@@ -194,10 +194,10 @@ footer p {
 
 @media screen and (min-width: 1200px) {
 
- /* .group {
+ .group {
     display: flex;
     flex-direction: row;
-  } */
+  }
 
 .group-stay {
   flex-direction: row;
