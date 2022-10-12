@@ -128,7 +128,7 @@ footer p {
   .group-nav {
     display: flex;
     flex-direction: row;
-    align-content: flex-start;
+    align-content: flex;
   }
 
   .group-stay {
