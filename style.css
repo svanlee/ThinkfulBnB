@@ -118,7 +118,7 @@ footer p {
 
 /* -------  Media Query ------- */
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 320px) {
   /* ---  Groups & Items --- */
   .group {
     display: flex;
@@ -142,9 +142,15 @@ footer p {
 
   .item.label{
     justify-content: center
-    
   }
-
+  
+  .logo {
+    font-family: "Pangolin", cursive;
+    font-size: 42px;
+    color: #fff;
+    text-align: left;
+  }
+  
 }
 
 @media screen and (min-width: 992px) {
