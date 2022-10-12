@@ -118,7 +118,7 @@ footer p {
 
 /* -------  Media Query ------- */
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 420px) {
   /* ---  Groups & Items --- */
   .group {
     display: flex;
