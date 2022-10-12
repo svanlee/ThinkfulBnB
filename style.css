@@ -149,7 +149,7 @@ footer p {
     font-family: "Pangolin", cursive;
     font-size: 52px;
     color: #fff;
-    text-align: left;
+    text-align: center;
   }
   
 }
@@ -171,7 +171,7 @@ footer p {
     font-family: "Pangolin", cursive;
     font-size: 72px;
     color: #fff;
-    text-align: left;
+    text-align: center;
   }
 
   .group-nav {
