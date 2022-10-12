@@ -128,6 +128,7 @@ footer p {
   .group-nav {
     display: flex;
     flex-direction: row;
+    align-content: flex-start;
   }
 
   .group-stay {
@@ -151,11 +152,6 @@ footer p {
     text-align: left;
   }
   
-   .group-nav {
-    display: flex;
-    flex-direction: row;
-    align-content: flex-end;
-  }
 }
 
 @media screen and (min-width: 992px) {
