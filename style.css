@@ -177,7 +177,7 @@ footer p {
   .group-nav {
     display: flex;
     flex-direction: row;
-    align-content: flex-end;
+    align-content: space-evenly;
   }
 
   .group-stay {
